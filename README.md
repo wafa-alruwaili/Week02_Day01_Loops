@@ -44,13 +44,13 @@
 ### While Loop
 
 #### Odd numbers
--	Write a function that takes a number as a parameter, then use a while to loop print odd numbers from 1 to the given number.
+-	Write a program that takes a number as a parameter, then use a while to loop print odd numbers from 1 to the given number.
 
 #### Factorial
 - Write a program that takes a number as input, then prints the Factorial of that number.
 
 
-Hint: The factorial function (symbol: !) says to multiply all whole numbers from our chosen number down to 1.
+Hint: The factorial program (symbol: !) says to multiply all whole numbers from our chosen number down to 1.
 Examples:
 •	4! = 4 × 3 × 2 × 1 = 24
 •	7! = 7 × 6 × 5 × 4 × 3 × 2 × 1 = 5040
