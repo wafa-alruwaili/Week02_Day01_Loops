@@ -44,7 +44,7 @@
 ### While Loop
 
 #### Odd numbers
--	Write a program that takes a number as a parameter, then use a while to loop print odd numbers from 1 to the given number.
+-	Write a program that takes a number as an input, then use a while loop to print an odd numbers from 1 to the given number.
 
 #### Factorial
 - Write a program that takes a number as input, then prints the Factorial of that number.
